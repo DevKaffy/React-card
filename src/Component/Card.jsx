@@ -9,7 +9,7 @@ const Card = ({ name, number, email, img}) => {
         </div>
       <div className= 'paragraph-container'>
       <p className='paragraph'>{number}</p>
-      <p>{email}</p>
+      <p className='paragraph'>{email}</p>
       </div>
       </div>
 

@@ -14,7 +14,7 @@ import {details} from '../data'
       )
       )}
   </div>
-  <div className='project'>React.js Examples Project Card</div>
+  <p className='footer'>React.js Examples Project React-card</p>
       </div>
  
 );

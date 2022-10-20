@@ -3,7 +3,7 @@
     name:'Jack Bauer',
     number: '+234 816789 098',
     email: 'jack@nowhere.com',
-    img:'/public/Jack_Bauer.jpg'
+    img:'/public/Bauer.jpeg'
     },
     {
       name: 'Chuck Norris',
