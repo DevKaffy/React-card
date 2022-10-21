@@ -1,14 +1,14 @@
  export const details = [
     {
     name:'Jack Bauer',
-    number: '+234 816789 098',
+    number: '+987 654 321',
     email: 'jack@nowhere.com',
-    img:'/public/Bauer.jpeg'
+    img:'/Bauer.jpeg'
     },
     {
       name: 'Chuck Norris',
-      number: '+234 816789 098',
+      number: '+918 372 574',
       email: 'gmail@chucknorris.com',
-      img:'/public/Norris.png'
+      img:'/Norris.png'
     },
   ];
